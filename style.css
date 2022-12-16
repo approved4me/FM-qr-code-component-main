@@ -1,5 +1,6 @@
 *, *::before, *::after {
     box-sizing: border-box;
+    font-family: inherit;
   }
   * {
     margin: 0;
@@ -22,7 +23,21 @@
     overflow-wrap: break-word;
   }
 
+/* RESET END*/
+/* COLORS */
+:root {
+    --white: hsl(0, 0%, 100%);
+    --light_grey: hsl(212, 45%, 89%);
+    --grayish_blue: hsl(220, 15%, 55%);
+    --dark_blue: hsl(218, 44%, 22%);
+  }
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
 main {
+    margin: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
