@@ -26,6 +26,8 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 26rem;
+    height: 100vh;
 }
 
 .attribution { font-size: 11px; text-align: center; }
