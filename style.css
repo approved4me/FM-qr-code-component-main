@@ -34,7 +34,7 @@
 
 body {
     font-family: 'Outfit', sans-serif;
-    background-color: var(--grayish_blue);
+    background-color: var(--light_grey);
 }
 
 main {
@@ -43,6 +43,7 @@ main {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    color: var(--dark_blue);
 }
 
 article {
@@ -50,6 +51,11 @@ article {
     background-color: var(--white);
     padding: 1rem;
     border-radius: 1rem;
+}
+
+.image {
+    border-radius: 1rem;
+    overflow: hidden;
 }
 
 .attribution { font-size: 11px; text-align: center; }
