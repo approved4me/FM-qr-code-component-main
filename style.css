@@ -47,6 +47,8 @@ main {
 
 article {
     max-width: 26rem;
+    background-color: var(--white);
+    padding: 1rem;
     border-radius: 1rem;
 }
 
