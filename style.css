@@ -34,6 +34,7 @@
 
 body {
     font-family: 'Outfit', sans-serif;
+    background-color: var(--grayish_blue);
 }
 
 main {
@@ -46,6 +47,7 @@ main {
 
 article {
     max-width: 26rem;
+    border-radius: 1rem;
 }
 
 .attribution { font-size: 11px; text-align: center; }
