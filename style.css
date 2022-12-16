@@ -59,7 +59,7 @@ article {
 }
 
 .content h1 {
-    line-height: 1;
+    line-height: 1.1;
     margin-block: 1rem;
 }
 .content {
@@ -68,7 +68,7 @@ article {
 
 .content p {
     color:var(--grayish_blue);
-    padding-bottom: 2rem;
+    padding-bottom: 1.5rem;
 }
 
 .attribution { font-size: 11px; text-align: center; }
