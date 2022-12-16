@@ -47,7 +47,7 @@ main {
 }
 
 article {
-    max-width: 26rem;
+    max-width: 23rem;
     background-color: var(--white);
     padding: 1rem;
     border-radius: 1rem;
@@ -56,6 +56,10 @@ article {
 .image {
     border-radius: 1rem;
     overflow: hidden;
+}
+
+.content {
+    text-align: center;
 }
 
 .attribution { font-size: 11px; text-align: center; }
