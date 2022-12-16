@@ -47,10 +47,10 @@ main {
 }
 
 article {
-    max-width: 20rem;
+    max-width: 19rem;
     background-color: var(--white);
     padding: 1rem;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
 }
 
 .image {
@@ -68,6 +68,7 @@ article {
 
 .content p {
     color:var(--grayish_blue);
+    padding-bottom: 2rem;
 }
 
 .attribution { font-size: 11px; text-align: center; }
