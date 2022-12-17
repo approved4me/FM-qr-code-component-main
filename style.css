@@ -36,19 +36,19 @@
 body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--light_grey);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 main {
     margin: 0.5rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
     color: var(--dark_blue);
 }
 
 article {
-    max-width: 18.5rem;
+    max-width: 19rem;
     background-color: var(--white);
     padding: 1rem;
     border-radius: 1.5rem;
