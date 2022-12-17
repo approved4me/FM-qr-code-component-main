@@ -61,6 +61,7 @@ article {
 }
 
 .content h1 {
+    font-weight: 1.3rem;
     line-height: 1.1;
     margin-block: 1rem;
 }
