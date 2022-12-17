@@ -49,7 +49,7 @@ main {
 }
 
 article {
-    max-width: 19rem;
+    max-width: 18rem;
     background-color: var(--white);
     padding: 1rem;
     border-radius: 1.5rem;
